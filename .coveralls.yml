@@ -1,0 +1,3 @@
+SERVICE_NAME: travis-ci
+REPO_TOKEN: BgJjakmIi3GZTDn2YhqPKuHmXFWansilT
+COVERALLS_GIT_BRANCH: master
